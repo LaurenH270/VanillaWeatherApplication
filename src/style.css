@@ -1,5 +1,11 @@
 body {
-  background-color: #f7f5fb;
+  background: linear-gradient(
+    106.8deg,
+    rgb(117, 255, 220) 6%,
+    rgb(163, 216, 255) 47.6%,
+    rgb(248, 215, 251) 87.8%
+  );
+
   font-family: "Roboto", sans-serif;
 }
 
